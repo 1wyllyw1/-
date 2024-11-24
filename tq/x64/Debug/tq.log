@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\wangyile\Desktop\tq\tq\源.cpp(281,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangyile\Desktop\tq\tq\源.cpp(396,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangyile\Desktop\tq\tq\源.cpp(420,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangyile\Desktop\tq\tq\源.cpp(192): warning C4715: “WeatherProvider::getShortTermForecast”: 不是所有的控件路径都返回值
+C:\Users\wangyile\Desktop\tq\tq\源.cpp(159): warning C4715: “WeatherProvider::getCurrentWeather”: 不是所有的控件路径都返回值
+  tq.vcxproj -> C:\Users\wangyile\Desktop\tq\tq\x64\Debug\tq.exe
